@@ -2,31 +2,31 @@
     autoLikeStatus: true,
     downloadMediaStatus: false,
     sensorNumber: true,
-    sendWelcomeMessage: true,
+    sendWelcomeMessage: false,
     
     blackList: [],
     whiteList: [],
     
-    fenixaboutype: 'Programming',  // Specify your value
-    ownerNumber: '94773010580',
+    fenixaboutype: 'GAMER',  // Specify your value
+    ownerNumber: '94714184446',
     userTimezone: 'Asia/Colombo',
-    FenixName: 'Unknown Friend', //if pushname not available
+    FenixName: 'NIROSHAN', //if pushname not available
     
     //group contact push    
     fenixwel1: 'Your Number Has Been Auto Saved🫠',
     fenixwel2: 'Save And Alert Me If Save 🌹',
-    fenixwel3: 'Save and Alert me✅',
+    fenixwel3: 'Save and Alert me ✅',
     //status motion puah    
-    autodetect1: 'heyyy 😸🩵',
-    autodetect2: 'ඔයගෙ නම්බරෙ ගත්තෙ ස්ටෙටස් එකකින් 🫠',
-    privateautodetect1: 'heyyy 😸🫠',
+    autodetect1: 'ԋყ Ⴆɾσƚԋҽɾ 👋',
+    autodetect2: 'මගෙ යාලුවෙක් ඔයාගෙ ලින්ක් එක ස්ටේටස් දාලා තිබ්බා 👍❤️',
+    privateautodetect1: 'ԋყ Ⴆɾσƚԋҽɾ',
     privateautodetect2: 'ඔයගෙ නම්බරෙ ගත්තෙ කෙනෙක් ශෙයා කරනකොට 😫',
 
     botDetails: {
-        botName: 'FENIX ID OWNER',
-        botAge: '26',
+        botName: 'NIROSHAN',
+        botAge: '16',
         botLocation: 'SRILANKA',
-        botEmail: 'privateloginemails@gmail.com',
+        botEmail: 'rkruwan55@gmail.com',
     },
 
     relaxWishes: 'Take a deep breath... 🌿',
@@ -74,8 +74,8 @@
 
     // Emojis
     emojis: [
-        "🌼", "😂", "🔥", "🤍", "🥰",
-        "😎", "🪻", "🎉", "👑", "🛒",
-        "🚀", "💎", "🌟", "🧘‍♀️", "🌈"
+        "🫂", "👍", "😌", "🤍", "🥰",
+        "😎", "✅", "🎉", "👨‍💻", "🔥",
+        "🚀", "📜", "😂", "❤️", "👋"
     ] // Addeemojis including VIP, professional, and pro emojis
 };
